@@ -1,0 +1,8 @@
+Git clone is the equivalent of these three commands:
+git init
+git remote add origin [url]
+git pull origin master
+
+Git pull is the equivalent of these commands:
+git fetch
+git merge origin/master
